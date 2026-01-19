@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPulse Stratum Miner",
+  "description": "A sophisticated Bitcoin Stratum mining dashboard with real-time visualization, variable difficulty tracking, and an integrated Gemini AI mining strategist.",
+  "requestFramePermissions": []
+}
